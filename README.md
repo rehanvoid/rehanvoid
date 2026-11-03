@@ -3,6 +3,7 @@
 # Hi 👋, I'm Rehan
 
 ### Aspiring Developer | Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!
 
