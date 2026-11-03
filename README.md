@@ -30,9 +30,13 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-More technologies coming soon!
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
