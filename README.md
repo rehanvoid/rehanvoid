@@ -11,8 +11,9 @@
 
 ### 💻 Developer • Creator • Tech Enthusiast
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Developer;Learning+%7C+Building+%7C+Growing;Future+Software+Engineer" />
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!
 
