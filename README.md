@@ -3,9 +3,15 @@
 </div>
 <div align="center">
 
-# Hi 👋, I'm Rehan
+<div align="center">
 
-### Aspiring Developer | Tech Enthusiast
+# 👋 Hi, I'm Rehan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Tech+Enthusiast;Future+Software+Engineer;Learning+%7C+Building+%7C+Growing" />
+
+### 💻 Developer • Creator • Tech Enthusiast
+
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!
