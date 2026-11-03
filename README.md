@@ -1,53 +1,49 @@
 <div align="center">
 
-<img src="Rehanvoid (1).png" width="100%" />
+<img src="profile-scan.svg" width="100%" alt="Rehanvoid neon profile scan dashboard" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=500&color=00FFF7&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+REHANVOID.exe;%3E+ACCESS+GRANTED;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+DEVELOPER+IN+PROGRESS" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFB3?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/BUILDING-THE_FUTURE-00BFFF?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=42F5C8&center=true&vCenter=true&width=650&lines=Initializing+rehanvoid.exe...;Access+granted.;Developer+in+progress.;Learning+%7C+Building+%7C+Evolving." alt="Animated typing intro" />
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=300&color=00FFB3&center=true&vCenter=true&width=700&lines=%5B+PROFILE+SCAN+INITIATED+%5D;%5B+LOADING+USER+DATA...+%5D;%5B+SCANNING+SKILLS...+%5D;%5B+ACCESSING+GITHUB+DATABASE+%5D;%5B+SCAN+COMPLETE+%5D" />
-
-</div>
-
-## <img src="https://img.shields.io/badge/01-IDENTITY-00FFF7?style=flat-square" /> `PROFILE_SCAN`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-
-### `USER: REHANVOID`
-
-<img src="https://img.shields.io/badge/CLASS-Developer-00FFB3?style=flat-square" />
-
-<img src="https://img.shields.io/badge/LEVEL-Learning-8A2BE2?style=flat-square" />
-
-</td>
-<td width="50%">
+## `// ABOUT`
 
 ```text
-╭── SYSTEM INFORMATION ──╮
+USER      : Rehan (@rehanvoid)
+ROLE      : Aspiring Developer
+INTERESTS : Coding, technology, creative projects
+FOCUS     : Learning and building
+MISSION   : Improve every day
+```
 
- USER      : rehanvoid
- ALIAS     : Rehan
- ROLE      : Developer
- STATUS    : ONLINE
- FOCUS     : Web Development
- MISSION   : Learn & Build
- OS        : Human.exe
+## `// TECH STACK`
 
-╰────────────────────────╯
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Tech stack icons" />
+</div>
+
+## `// GITHUB ACTIVITY`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rehanvoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=061311&title_color=42F5C8&icon_color=BD7BFF&text_color=E6FFF8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanvoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=061311&title_color=42F5C8&text_color=E6FFF8" width="49%" />
+</div>
+
+## `// PROJECT DATABASE`
+
+<div align="center">
+<a href="https://github.com/rehanvoid?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORIES-42F5C8?style=for-the-badge&logo=github&logoColor=061311" />
+</a>
+</div>
+
+## `// CONNECT`
+
+<div align="center">
+<a href="https://github.com/rehanvoid"><img src="https://img.shields.io/badge/GitHub-061311?style=for-the-badge&logo=github&logoColor=42F5C8" /></a>
+<a href="https://www.linkedin.com/in/rehan-shaikh-47002b445/"><img src="https://img.shields.io/badge/LinkedIn-061311?style=for-the-badge&logo=linkedin&logoColor=42F5C8" /></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=rehanvoid&label=PROFILE+VIEWS&color=42F5C8&style=flat-square" />
+<br/>
+<sub>Dream it. Code it. Build it.</sub>
+</div>
