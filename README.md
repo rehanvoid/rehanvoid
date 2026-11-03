@@ -1,98 +1,89 @@
 <div align="center">
-  <img src="Rehanvoid (1).png" width="100%" />
-</div>
-<div align="center">
 
-<div align="center">
+<h1>⚡ REHANVOID.exe</h1>
 
-# 👋 Hi, I'm Rehan
+<h3>◈ GITHUB PROFILE SCANNER ◈</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Tech+Enthusiast;Future+Software+Engineer;Learning+%7C+Building+%7C+Growing" />
-
-### 💻 Developer • Creator • Tech Enthusiast
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Developer;Learning+%7C+Building+%7C+Growing;Future+Software+Engineer" />
-</div>
-
-Welcome to my GitHub profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Initializing+profile+scan...;Access+granted+%3A%3A+rehanvoid;Welcome+to+my+digital+world." />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 I'm currently learning programming
-- 💻 I enjoy exploring technology and building projects
-- 🚀 I'm working on improving my coding skills
-- 🎯 My goal is to become a skilled developer
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+<h3>╭───────────────「 PROFILE SCAN 」───────────────╮</h3>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<pre>
+  ╭────────────────────╮
+  │                    │
+  │     .-""""-.       │
+  │    / .----. \      │
+  │   | | ◉  ◉ | |     │
+  │   | |  __  | |     │
+  │   |  \____/  |     │
+  │    \  ____  /      │
+  │     '------'       │
+  │                    │
+  │   DIGITAL ENTITY   │
+  ╰────────────────────╯
+</pre>
+
+**[ USER PROFILE ]**
+
+`REHANVOID`
+
+</td>
+<td width="50%">
+
+<pre>
+╭─── SYSTEM INFORMATION ───╮
+
+ Username    : rehanvoid
+ Alias       : Rehan
+ Status      : Learning
+ Role        : Developer
+ Focus       : Web Development
+ Languages   : HTML, CSS, JS
+ Exploring   : Python
+ Tools       : Git, GitHub
+ Editor      : VS Code
+
+╰──────────────────────────╯
+</pre>
+
+</td>
+</tr>
+</table>
+
+<h3>╰────────────「 SCAN COMPLETE 」────────────╯</h3>
 
 </div>
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
+## `> ABOUT_ME`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rehanvoid&show_icons=true&theme=tokyonight&hide_border=true" />
+```bash
+$ whoami
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanvoid&layout=compact&theme=tokyonight&hide_border=true" />
+Rehan — aspiring developer and tech enthusiast.
 
-<img src="https://streak-stats.demolab.com?user=rehanvoid&theme=tokyonight&hide_border=true" />
+$ mission
 
-</div>
+Learn. Build. Experiment. Improve.
 
-## 🚀 Featured Projects
+$ current_focus
 
-<div align="center">
+- Exploring programming
+- Learning web development
+- Building projects
+- Improving problem-solving skills
 
-<a href="https://github.com/rehanvoid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanvoid&repo=YOUR_PROJECT_REPO&theme=tokyonight&hide_border=true" />
-</a>
+$ objective
 
-</div>
-
-- 🔹 **Project One** — Brief description of what it does.
-- 🔹 **Project Two** — Brief description of what it does.
-- 🔹 **Project Three** — Brief description of what it does.
-
-- ## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/rehanvoid">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/rehan-shaikh-47002b445/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-
-### 💫 Dream it. Code it. Build it.
-
-</div>
-
-## 🤝 Connect With Me
-
-- GitHub: [My Profile](https://github.com/rehanvoid)
-
----
-
-<div align="center">
-
-✨ Thanks for visiting my profile! ✨
-
-</div>
+Become a skilled software developer.
