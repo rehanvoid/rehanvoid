@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="YOUR_BANNER_FILENAME.png" width="100%" />
+</div>
+<div align="center">
 
 # Hi 👋, I'm Rehan
 
