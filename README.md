@@ -39,6 +39,51 @@ Welcome to my GitHub profile!
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rehanvoid&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanvoid&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=rehanvoid&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/rehanvoid">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanvoid&repo=YOUR_PROJECT_REPO&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+- 🔹 **Project One** — Brief description of what it does.
+- 🔹 **Project Two** — Brief description of what it does.
+- 🔹 **Project Three** — Brief description of what it does.
+
+- ## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rehanvoid">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/rehan-shaikh-47002b445/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 💫 Dream it. Code it. Build it.
+
+</div>
 
 ## 🤝 Connect With Me
 
